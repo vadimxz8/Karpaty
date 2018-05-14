@@ -1,0 +1,22 @@
+/*  http://www.roman.lt/ | Copyright (C) 2007. All rights reserved */
+
+body {padding:0; margin:0;background-image:url(i/bg-top.gif); background-repeat:repeat-x; font-size:14px; line-height:22px}
+td {font-size:14px; line-height:22px}
+ul {margin-top:0px; margin-left:20px; font-size:14px; color:#555; list-style:square; padding:0; line-height:17px}
+p {margin:0px; padding:10px; color:#111}
+H1 {font-family: Georgia, "Times New Roman", Times, serif; font-size:18px; font-weight:normal; margin-top:20px; margin-bottom:0px; padding:0px;}
+H2 {margin:5px; padding:0; font-size:15px;}
+H2.download a {padding:5px; text-decoration:none; background-color:#D8FCA7; border:1px solid #66A413; text-align:center}
+a, a:visited {color:#218200}
+a:hover {color:#000}
+a.main-menu, a.main-menu:visited {margin:5px; padding:4px; border-bottom:1px solid #4B5E9A; font-family: Tahoma; color:#33407D; font-size:17px; text-decoration:none;}
+a.main-menu:hover {color:#359151}
+a.main-menu#active {border-bottom:2px solid #28ad08}
+.table-nav {width:870px; height:70px;}
+.table-pic {border:10px solid #E6F0F7; width:950px; height:210px; background-image:url(i/mainpic.gif); background-repeat:no-repeat; background-position:center}
+.table-content {width:870px; margin-bottom:18px}
+.footer {background-image:url(i/bg-bot.gif); background-repeat:repeat-x; text-align:center; height:95px; margin-top:30px}
+.footer p {color:#738FAC;}
+.div-pic {float:right; padding-left:20px}
+.pic {margin-top:26px; padding:5px; border:1px solid #DADFE7}
+.footer a.madein-link {color: #738FAC; font-size:13px} .madein {font-size: 13px}
